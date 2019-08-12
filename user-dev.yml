@@ -8,8 +8,9 @@ spring:
     username: root
   application:
     name: eureka-client-provider
+test: ruurururur
 eureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:10086/eureka
-test:iiiii
+      
