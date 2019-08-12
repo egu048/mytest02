@@ -8,7 +8,7 @@ spring:
     username: root
   application:
     name: eureka-client-provider
-test: ruurururur
+test: ppppppppp
 eureka:
   client:
     service-url:
